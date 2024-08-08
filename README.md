@@ -1,7 +1,8 @@
-# Olá, me chamo Anna Luisa!
-## Bem-vindo/a ao meu perfil do Github 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Anna+Luisa!;" />
+</h1>
 
-
+<h2 align="center" >⚡Stats⚡</h2>
 <div>
 <a href="https://github.com/Annalu-Sa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annalu-Sa&layout=compact&langs_count=7&theme=dracula"/>
