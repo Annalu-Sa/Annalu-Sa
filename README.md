@@ -2,6 +2,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Anna+Luisa!;" />
 </h1>
 
+![](https://github.com/Annalu-Sa/code_girl.gif)
+
 <h2 align="center" >⚡Stats⚡</h2>
 <div>
 <a href="https://github.com/Annalu-Sa">
