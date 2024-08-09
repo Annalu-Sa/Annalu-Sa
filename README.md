@@ -1,8 +1,15 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Anna+Luisa!;" />
-</h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
+<div align="center">
+  <a href="https://github.com/Annalu-Sa">
+    <img align="center" src="Welcome.png" width="500">
+  </a>
+</div>
+<br>
 
-![](https://github.com/Annalu-Sa/code_girl.gif)
+## ⭐️ Sobre mim
+
+Sou estudante de <b>Engenharia de Controle e Automação<b> na Universidade Federal do Rio de Janeiro(UFR) e atuo em uma iniciação científica do IMPA (Meninas Olímpicas do IMPA) com projetos maker. Sou uma entusiasta da tecnologia e estou me descobrindo na programação, explorando linguagens que vão me ajudar a trilhar o meu caminho profissional.
+
 
 <h2 align="center" >⚡Stats⚡</h2>
 <div>
