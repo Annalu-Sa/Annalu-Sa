@@ -8,20 +8,23 @@
 
 ## ⭐️ Sobre mim
 
-Sou estudante de <b>Engenharia de Controle e Automação<b> na Universidade Federal do Rio de Janeiro(UFR) e atuo em uma iniciação científica do IMPA (Meninas Olímpicas do IMPA) no incentivo feminino em áreas STEM, atuo na eletrônica e programação dos projetos. Também sou uma entusiasta da tecnologia e estou me descobrindo na programação, explorando linguagens que vão me ajudar a trilhar o meu caminho profissional.
+Sou estudante de <b>Engenharia de Controle e Automação<b> na Universidade Federal do Rio de Janeiro(UFR) e faço parte de uma iniciação científica do IMPA (Meninas Olímpicas do IMPA) no incentivo feminino em áreas STEM, atuo na eletrônica e programação dos projetos. 
+
+Também sou uma entusiasta da tecnologia e estou me descobrindo na programação, explorando linguagens que vão me ajudar a trilhar o meu caminho profissional.
 
 <div align="center">
   <table>
     <tr>
       <td><b>🎓 Engenharia de Controle e Automação</b></td>
-      <td><b>🧪 Iniciação Científica</b></td>
     </tr>
     <tr>
       <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
-      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
     </tr>
   </table>
 </div>
+
+
+
 
 <h2 align="center" >⚡Stats⚡</h2>
 <div>
@@ -32,9 +35,14 @@ Sou estudante de <b>Engenharia de Controle e Automação<b> na Universidade Fede
 
 ![Snake animation](https://github.com/Annalu-Sa/Annalu-Sa/blob/output/github-contribution-grid-snake.svg)
 
-## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> 
 
-## Estou aprendendo
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+## ⭐️ Hard Skills e Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 
