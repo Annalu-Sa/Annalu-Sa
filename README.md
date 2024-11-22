@@ -10,7 +10,7 @@
 
 Sou estudante de <b>Engenharia de Controle e Automação<b> na Universidade Federal do Rio de Janeiro(UFR) e faço parte de uma iniciação científica do IMPA (Meninas Olímpicas do IMPA) no incentivo feminino em áreas STEM, atuo na eletrônica e programação dos projetos. 
 
-Também sou uma entusiasta da tecnologia e estou me descobrindo na programação, explorando linguagens que vão me ajudar a trilhar o meu caminho profissional.
+Também sou uma entusiasta da tecnologia e estou me descobrindo na área de Segurança da Informação.
 
 <div align="center">
   <table>
