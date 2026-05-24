@@ -8,14 +8,14 @@
 
 ## ⭐️ Sobre mim
 
-Sou estudante de <b>Engenharia de Controle e Automação<b> na Universidade Federal do Rio de Janeiro(UFR) e faço parte de uma iniciação científica do IMPA (Meninas Olímpicas do IMPA) no incentivo feminino em áreas STEM, atuo na eletrônica e programação dos projetos. 
+Sou estudante de <b>Sistemas de Informação<b> na Universidade Estadual do Rio de Janeiro(Unirio) e faço parte de uma iniciação científica do IMPA (Meninas Olímpicas do IMPA) no incentivo feminino em áreas STEM, atuo na eletrônica e programação dos projetos. 
 
 Também sou uma entusiasta da tecnologia e me interesso na área de Segurança da Informação.
 
 <div align="center">
   <table>
     <tr>
-      <td><b>🎓 Engenharia de Controle e Automação</b></td>
+      <td><b>🎓 Sistemas de Informação</b></td>
     </tr>
     <tr>
       <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
