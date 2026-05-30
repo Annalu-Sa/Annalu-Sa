@@ -27,6 +27,7 @@ Também sou uma entusiasta da tecnologia e me interesso na área de Segurança d
 
 
 <h2 align="center" >⚡Stats⚡</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annalu-Sa&layout=compact&theme=dracula)](https://github.com/Annalu-Sa)
 
 ![Snake animation](https://github.com/Annalu-Sa/Annalu-Sa/blob/output/github-contribution-grid-snake.svg)
 
