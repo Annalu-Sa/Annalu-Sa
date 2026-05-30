@@ -8,9 +8,9 @@
 
 ## ⭐️ Sobre mim
 
-Sou estudante de <b>Sistemas de Informação<b> na Universidade Estadual do Rio de Janeiro(Unirio) e faço parte de uma iniciação científica do IMPA (Meninas Olímpicas do IMPA) no incentivo feminino em áreas STEM, atuo na eletrônica e programação dos projetos. 
+Sou estudante de <b>Sistemas de Informação<b> na Universidade Federal do Estado do Rio de Janeiro(Unirio) e faço parte de uma iniciação científica do IMPA (Meninas Olímpicas do IMPA) no incentivo feminino em áreas STEM, atuo na eletrônica e programação dos projetos. 
 
-Também sou uma entusiasta da tecnologia e me interesso na área de Segurança da Informação.
+Também sou uma entusiasta da tecnologia e me interesso na área de Segurança da Informação, Engenharia de Software e Ciência de Dados.
 
 <div align="center">
   <table>
