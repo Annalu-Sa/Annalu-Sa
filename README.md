@@ -17,7 +17,7 @@ Também sou uma entusiasta da tecnologia e me interesso na área de Segurança d
 
 <h2 align="center">⚡Stats⚡</h2>
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Annalu-Sa&layout=compact&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Annalu-Sa&theme=dracula" />
   <img src="https://streak-stats.demolab.com?user=Annalu-Sa&theme=dracula" />
 </div>
 
