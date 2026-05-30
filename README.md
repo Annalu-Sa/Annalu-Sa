@@ -18,7 +18,7 @@ Também sou uma entusiasta da tecnologia e me interesso na área de Segurança d
       <td><b>🎓 Sistemas de Informação</b></td>
     </tr>
     <tr>
-      <img src="https://raw.githubusercontent.com/Annalu-Sa/Annalu-Sa/main/code_girl.gif" width="500" height="170"></td>
+      <img src="https://raw.githubusercontent.com/Annalu-Sa/Annalu-Sa/main/code_girl.gif" width="500" height="200"></td>
     </tr>
   </table>
 </div>
