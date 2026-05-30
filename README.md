@@ -27,11 +27,6 @@ Também sou uma entusiasta da tecnologia e me interesso na área de Segurança d
 
 
 <h2 align="center" >⚡Stats⚡</h2>
-<div>
-<a href="https://github.com/Annalu-Sa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annalu-Sa&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Annalu-Sa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ![Snake animation](https://github.com/Annalu-Sa/Annalu-Sa/blob/output/github-contribution-grid-snake.svg)
 
